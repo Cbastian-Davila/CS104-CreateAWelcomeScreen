@@ -1,0 +1,12 @@
+print("==================================================")
+print("VitalLink")
+print("Your partner in smarter, connected healthcare")
+print("==================================================")
+print(" ")
+print("Welcome!")
+print("We're excited to support you on your health journey")
+print(" ")
+print("With VitalLink, you can stay connected with providers,")
+print("track important health information, and access tools")
+print("designed to help you live well every day.")
+
